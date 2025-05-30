@@ -43,4 +43,8 @@ Dell Technologies
 
 # Other Coursework
 * https://github.com/jaxorama/TechLearning 
-  
+
+# Industry Forum Participation
+* Speaker at the Open Source India 2019 on 'Security Challenges with adopting Open source" https://www.opensourceindia.in/speakers-2019/ajay-shenoy/
+* Redfish DMTF forum - Reviewer/Contributor
+* Python training workshop conducted at Dell as part of "Women Who Code" initiative attended by over 100 women engineers 
