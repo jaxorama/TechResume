@@ -1,15 +1,15 @@
 # TechResume
-Ajay Shenoy
-Technical Staff
-Dell Technologies
+- Ajay Shenoy
+- Technical Staff (Distinguished Member of Technical Staff)
+- Dell Technologies
 
 # Patents
 * https://scholar.google.com/citations?user=3TcN3moAAAAJ
 
 # Skillset
-Server Systems Management, Redfish API, Embedded Linux - Yocto, Linux System Programming in C/C++/Go, UEFI applications, Firmware Security, Data@Rest Encryption, Redfish API & Telemetry, Web application in HTML/CSS/JS/Angular, Automation in Python/Bash, AI/ML applications, GPU Enablement for NVIDIA/AMD/Intel GPUs on Dell PowerEdge servers
+Server Systems Management, Redfish API, Embedded Linux - Yocto, Linux System Programming in C/C++/Go, UEFI applications, Firmware Security, IoT, Data@Rest Encryption, Redfish API & Telemetry, Web application in HTML/CSS/JS/Angular, Automation in Python/Bash, AI/ML applications, GPU Enablement for NVIDIA/AMD/Intel GPUs on Dell PowerEdge servers
 
-# Dell Technologies (2008 - Present)
+# Dell Technologies (Sep 2008 - Present)
 ## Technical Staff (2025 - Present)
 * Technologist for Lifecycle Controller, iDRAC Web GUI, Redfish API, Firmware Security, Secure Enterprise Key Manager for Data at-rest Encryption
 * Services Modernization and AI adoption
@@ -26,16 +26,13 @@ Server Systems Management, Redfish API, Embedded Linux - Yocto, Linux System Pro
 * Two-factor authentication using SmartCard
 * Lead for Lifecycle Controller UEFI application development
   
-# Montalvo Systems (2007 - 2008)
-* Senior Software Engineer
+# Montalvo Systems (Member of Technical Staff from Oct 2007 - June 2008)
 * Firmware development and testing for M100 Processor for Power/Thermal control 
 
-# Cypress Semiconductors (2004 - 2007)
-* Senior Software Engineer
+# Cypress Semiconductors (Senior Software Engineer from May 2004 - Oct 2007)
 * Management software development & testing for Ayama/Sahasra Network Search Engines, Antioch USB Controller
 
-# Infosys Technologies (2000 - 2004)
-* Programmer Analyst
+# Infosys Technologies (Programmer Analyst from Oct 2000 - May 2004)
 * Management software development for Nortel's DMS Switches, Spectrum SONET Trunking Peripheral, MG4K Media Gateway
 * Pager support for Integrated Node/Link Maintenance in Ottawa, Canada
 
