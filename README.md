@@ -6,6 +6,9 @@ Dell Technologies
 # Patents
 * https://scholar.google.com/citations?user=3TcN3moAAAAJ
 
+# Skillset
+Server Systems Management, Redfish API, Embedded Linux - Yocto, Linux System Programming in C/C++/Go, UEFI applications, Firmware Security, Data@Rest Encryption, Redfish API & Telemetry, Web application in HTML/CSS/JS/Angular, Automation in Python/Bash, AI/ML applications, GPU Enablement for NVIDIA/AMD/Intel GPUs on Dell PowerEdge servers
+
 # Dell Technologies (2008 - Present)
 ## Technical Staff (2025 - Present)
 * Technologist for Lifecycle Controller, iDRAC Web GUI, Redfish API, Firmware Security, Secure Enterprise Key Manager for Data at-rest Encryption
